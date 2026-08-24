@@ -1,0 +1,41 @@
+<svg width="300" height="300" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+<defs>
+<marker id="arrow-I" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="2.8" markerHeight="2.8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrow-M" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="2.8" markerHeight="2.8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2456c9"/></marker>
+<marker id="arrow-F" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="2.8" markerHeight="2.8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a8f5e"/></marker>
+</defs>
+<rect x="0" y="0" width="100" height="100" fill="#ffffff"/>
+<line x1="50" y1="0" x2="50" y2="100" stroke="#eeeeee" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="0" y1="50" x2="100" y2="50" stroke="#eeeeee" stroke-width="0.6" stroke-dasharray="2,2"/>
+<path d="M 15.00 5.05 L 47.90 5.05" fill="none" stroke="#c0392b" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-I)"/>
+<circle cx="15.00" cy="5.05" r="4.2" fill="#ffffff" stroke="#c0392b" stroke-width="1"/>
+<text x="15.00" y="6.65" font-size="5.2" text-anchor="middle" fill="#c0392b" font-weight="bold">1</text>
+<path d="M 47.90 5.05 L 47.90 34.95" fill="none" stroke="#c0392b" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-I)"/>
+<circle cx="47.90" cy="5.05" r="4.2" fill="#ffffff" stroke="#c0392b" stroke-width="1"/>
+<text x="47.90" y="6.65" font-size="5.2" text-anchor="middle" fill="#c0392b" font-weight="bold">2</text>
+<path d="M 52.10 5.05 L 85.00 5.05" fill="none" stroke="#c0392b" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-I)"/>
+<circle cx="52.10" cy="5.05" r="4.2" fill="#ffffff" stroke="#c0392b" stroke-width="1"/>
+<text x="52.10" y="6.65" font-size="5.2" text-anchor="middle" fill="#c0392b" font-weight="bold">3</text>
+<path d="M 85.00 5.05 L 85.00 34.95" fill="none" stroke="#c0392b" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-I)"/>
+<circle cx="85.00" cy="5.05" r="4.2" fill="#ffffff" stroke="#c0392b" stroke-width="1"/>
+<text x="85.00" y="6.65" font-size="5.2" text-anchor="middle" fill="#c0392b" font-weight="bold">4</text>
+<path d="M 42.95 51.29 L 42.95 44.71" fill="none" stroke="#2456c9" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-M)"/>
+<circle cx="42.95" cy="51.29" r="4.2" fill="#ffffff" stroke="#2456c9" stroke-width="1"/>
+<text x="42.95" y="52.89" font-size="5.2" text-anchor="middle" fill="#2456c9" font-weight="bold">5</text>
+<path d="M 36.37 44.71 L 49.53 44.71" fill="none" stroke="#2456c9" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-M)"/>
+<circle cx="36.37" cy="44.71" r="4.2" fill="#ffffff" stroke="#2456c9" stroke-width="1"/>
+<text x="36.37" y="46.31" font-size="5.2" text-anchor="middle" fill="#2456c9" font-weight="bold">6</text>
+<path d="M 51.96 34.00 L 51.96 62.00" fill="none" stroke="#2456c9" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-M)"/>
+<circle cx="51.96" cy="34.00" r="4.2" fill="#ffffff" stroke="#2456c9" stroke-width="1"/>
+<text x="51.96" y="35.60" font-size="5.2" text-anchor="middle" fill="#2456c9" font-weight="bold">7</text>
+<path d="M 51.96 48.00 L 63.63 48.00" fill="none" stroke="#2456c9" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-M)"/>
+<circle cx="51.96" cy="48.00" r="4.2" fill="#ffffff" stroke="#2456c9" stroke-width="1"/>
+<text x="51.96" y="49.60" font-size="5.2" text-anchor="middle" fill="#2456c9" font-weight="bold">8</text>
+<path d="M 33.50 65.00 L 66.50 65.00" fill="none" stroke="#1a8f5e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-F)"/>
+<circle cx="33.50" cy="65.00" r="4.2" fill="#ffffff" stroke="#1a8f5e" stroke-width="1"/>
+<text x="33.50" y="66.60" font-size="5.2" text-anchor="middle" fill="#1a8f5e" font-weight="bold">9</text>
+<path d="M 66.50 65.00 L 66.50 95.00" fill="none" stroke="#1a8f5e" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow-F)"/>
+<circle cx="66.50" cy="65.00" r="4.2" fill="#ffffff" stroke="#1a8f5e" stroke-width="1"/>
+<text x="66.50" y="66.60" font-size="5.2" text-anchor="middle" fill="#1a8f5e" font-weight="bold">10</text>
+<text x="50" y="98.5" font-size="4" text-anchor="middle" fill="#999999">꽉  (ㄲㅘㄱ)  [TB_F]</text>
+</svg>
